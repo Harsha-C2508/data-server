@@ -11,5 +11,14 @@
           "cost": 1299,
           "borrowed": false
         }
-      ]
+      ],
+
+    "user":[
+        {
+            "id":1,
+            "name":"Harsha",
+            "email":"harshac2508@gmail.com",
+            "password":"harsh123"
+        }
+    ]
 }
