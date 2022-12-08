@@ -1,24 +1,18 @@
 {
-    "book":[
-        {
-          "id":1,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "fiction",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 1299,
-          "borrowed": false
-        }
-      ],
 
     "user":[
         {
             "id":1,
-            "name":"Harsha",
+            "fullname":"Harsha C",
             "email":"harshac2508@gmail.com",
             "password":"harsh123"
         }
+    ],
+
+    "post":[
+      {
+        "caption":"",
+        "img":""
+      }
     ]
 }
