@@ -16,8 +16,6 @@
         "img":""
       }
     ],
-
-    {
   "tripoto":[
     {
       "id":1,
@@ -493,7 +491,7 @@
 }
 ],
 
-"user": [
+"user1": [
   {
       "id": 1,
       "banner": "https://cdn1.tripoto.com/media/filter/tst/img/2176903/Image/1660666126_image_covera.jpg",
@@ -4044,5 +4042,4 @@
       "back":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18298568/2022/5/24/2cd04ab9-244b-4aa0-9e42-003db9763a861653376168014ShirtsDressBerryWomenShirtsDressBerryWomenTrousersLouisPhili5.jpg"
     }
    ]
-}
 }
